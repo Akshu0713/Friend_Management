@@ -1,19 +1,19 @@
-# Social-network
+# Friend_Management
 
 ## Challenge
 
-Create a mini social network. The application should have features like:-
+Create a Friend_Management. The application should have features like:-
 * Users should be able to sign up/sign in, and create a profile for themselves.
 * Search for other users.
 * View other users' profiles & make them friends/unfriend them.
 *  View a list of mutual friends between users. A mutual friend is a user who is a friend of two other users who may or may not know each other. 
 
-## Social-network
+## Friend_Management
 
-This is a mini social network web application created using the MERN stack, which stands for MongoDB, Express, React, and Node.js. This app allows users to sign up or sign in, create their profile, search for other users, view other users' profiles, and make them friends or unfriend them.
+This is a Friend_Management web application created using the MERN stack, which stands for MongoDB, Express, React, and Node.js. This app allows users to sign up or sign in, create their profile, search for other users, view other users' profiles, and make them friends or unfriend them.
 
 ## Features
-The following are the features that have been implemented in this mini social network app:
+The following are the features that have been implemented in this Friend_Management app:
 
 -**Sign up/sign in**: Users can sign up for a new account or sign in with an existing account. Passwords are securely hashed before being stored in the database.
 
