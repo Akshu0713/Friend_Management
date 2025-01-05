@@ -62,13 +62,13 @@ The following are the major dependencies that have been used in this project:
 1.Clone this repository to your local machine.
 
 ```bash
-  git clone (https://github.com/Akshu0713/Friend_Management.git)
+  git clone https://github.com/Akshu0713/Friend_Management.git
 ```
 
 2.Go to the project directory
 
 ```bash
-  cd SOCIAL-NETWORK
+  cd Friend_Management
 ```
 
 3.Install the dependencies for both the client and server side.
