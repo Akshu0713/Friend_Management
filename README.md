@@ -99,8 +99,6 @@ The following are the major dependencies that have been used in this project:
 
 ## Working Demo
 
-[Working Demo](https://www.loom.com/share/3eb9d8bb33d740fc97446964c40df341)
-
 https://user-images.githubusercontent.com/76904393/226411140-7c2fdc7c-adf7-418f-b31e-441d0833a21b.mp4
 
 
