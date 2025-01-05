@@ -62,7 +62,7 @@ The following are the major dependencies that have been used in this project:
 1.Clone this repository to your local machine.
 
 ```bash
-  git clone https://github.com/shinoj-exe/social-network.git
+  git clone (https://github.com/Akshu0713/Friend_Management.git)
 ```
 
 2.Go to the project directory
